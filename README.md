@@ -1,5 +1,7 @@
 # ds4320-project-1
 
+### Item 4: Table of Background Readings
+
 | Title | Description | Direct Link | Link to File in Folder |
 |-------|-------------|-------------|-------------------------|
 | National Fire News | This website provides up-to-date information and statistics on wildfire incidents across the United States. It includes data on fire locations, sizes, and containment status. | [National Fire News](https://www.nifc.gov/fire-information/nfn) | [National Fire News](./Background%20Readings/National%20Fire%20News.pdf) |
