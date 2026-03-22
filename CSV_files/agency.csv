@@ -1,0 +1,12 @@
+agency_id,agency_name,agency_name_long
+1,CDF,California Department of Forestry and Fire Protection
+2,CCO,Contract County
+3,USF,USDA Forest Service
+4,NPS,National Park Service
+5,BLM,Bureau of Land Management
+6,LRA,Local Responsibility Area
+7,BIA,USDI Bureau of Indian Affairs
+8,DOD,Department of Defense
+9,FWS,USDI Fish and Wildlife Service
+10,,
+11,OTH,Other
